@@ -1,0 +1,42 @@
+[33mcommit 8231472d5941c54cb8d45228eaf92434d47600fc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: b1b6305 5621cfe
+Author: Roger Ace <rogerac@gmail.com>
+Date:   Sat Sep 28 08:53:53 2019 -0300
+
+    Merge branch 'titulo'
+
+[33mcommit b1b6305ab00cc5828107fcfd5359b6daf622886c[m
+Author: Roger Ace <rogerac@gmail.com>
+Date:   Sat Sep 28 08:49:49 2019 -0300
+
+    Corrigindo nome do curso de Docker
+
+[33mcommit 5621cfeb105a2751f1f1f2bd169e0c009710cce4[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: Roger Ace <rogerac@gmail.com>
+Date:   Sat Sep 28 08:02:55 2019 -0300
+
+    Alterando título da página
+
+[33mcommit 3400a30543a76291258976ae36202b06cb8031f8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+Author: Roger Ace <rogerac@gmail.com>
+Date:   Fri Sep 27 23:45:17 2019 -0300
+
+    Renomeando curso de integração contínua
+
+[33mcommit f89409ddcb62aad4a9a8a22f9bed7d71d951ecaa[m
+Author: Roger Ace <rogerac@gmail.com>
+Date:   Fri Sep 27 23:18:07 2019 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 4d7789c1f5f2cfa67d4068b13d76340d8e5abbfb[m
+Author: Roger Ace <rogerac@gmail.com>
+Date:   Fri Sep 27 19:13:03 2019 -0300
+
+    Acento adicionado no curso de Integração Contínua
+
+[33mcommit 1a1e2f03ffc42410052736820033840408dfc7ee[m
+Author: Roger Ace <rogerac@gmail.com>
+Date:   Fri Sep 27 19:10:01 2019 -0300
+
+    Criando arquivo index.htm com lista de cursos
